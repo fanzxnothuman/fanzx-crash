@@ -86,7 +86,7 @@ particlesJS.load('particles-js', '/assets/particles.json', function () {
 
 const storeBtn = document.getElementById('store-btn');
   const storePopup = document.getElementById('store-popup');
-  const WA_OWNER = '6285850493138';
+  const WA_OWNER = '628987768517';
 
   storeBtn.addEventListener('click', () => {
     storePopup.style.display = storePopup.style.display === 'grid' ? 'none' : 'grid';

@@ -1,4 +1,4 @@
-const DATA_URL = 'github db mu';
+const DATA_URL = 'https://raw.githubusercontent.com/fanzxnothuman/fanzx-database/refs/heads/main/database.json';
 
 async function login() {
   const user = document.getElementById("username").value.trim();
